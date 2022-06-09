@@ -1,0 +1,42 @@
+html{
+  background-color: white;
+}
+
+body{
+  text-align: center;
+
+}
+
+h1{
+  color: black;
+  text-align: center;
+  font-family: Degular;
+}
+h2{
+  font-family: Degular;
+}
+
+h1, h2, h3, p {
+  text-align: center;
+}
+
+.banner {width:100%}
+
+.imgmuffin {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe{
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul, ol {
+  text-align: left;
+}
+
+h4{
+  text-align: left;
+}
